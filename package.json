@@ -1,0 +1,26 @@
+{
+  "name": "angularExercices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeanPougetoux/angularExercices.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeanPougetoux/angularExercices/issues"
+  },
+  "homepage": "https://github.com/JeanPougetoux/angularExercices#readme",
+  "dependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "source-map-loader": "^0.2.4"
+  },
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}
